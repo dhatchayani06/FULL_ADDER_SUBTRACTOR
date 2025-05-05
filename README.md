@@ -1,10 +1,6 @@
  FULL_ADDER_SUBTRACTOR
 
-Implementation-of-Full-Adder-and-Full-subtractor-circuit
-
-# Name : Madhumitha.B
-
-# Reg no :212224050018
+Implementation-of-Full-Adder-and-Full-subtractor-cir
 
 **AIM:**
 
